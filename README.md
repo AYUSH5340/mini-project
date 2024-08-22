@@ -1,1 +1,1 @@
-# html-css-js-project-boilerplate
+# html-css-js-mini-project For MCA
